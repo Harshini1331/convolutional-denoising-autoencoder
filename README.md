@@ -1,6 +1,3 @@
-# EX. NO:
-# DATE:
-
 # <p align="center">Convolutional Autoencoder for Image Denoising</p>
 
 ## AIM
